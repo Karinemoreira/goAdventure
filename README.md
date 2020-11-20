@@ -1,4 +1,4 @@
-# adventures-app
+# goAdventure
 React exercise made from Brian Design video tutorial, with changes.
 
 
